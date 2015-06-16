@@ -11,8 +11,6 @@ var asyncRequest; // variable to hold XMLHttpRequest object
       function() { getContent( "AJAX/HighSchool.html" ); }, false );
     document.getElementById( "tmc" ).addEventListener( "click", 
       function() { getContent( "AJAX/College.html" ); }, false );
-    document.getElementById( "music" ).addEventListener( "click", 
-      function() { getContent( "AJAX/Music.html" ); }, false );
          
       } // end function registerListeners
 
