@@ -1,0 +1,27 @@
+/* Modified from Fig 19.21 */
+
+#table
+{
+  background-color: white;
+}
+
+table 
+{         
+border-style: ridge;
+border-collapse: collapse;        
+border-spacing: 2px 2px;
+margin-left: .5em; 
+margin-right: .5em;
+margin-top: 2em;
+width: 70%;
+}
+
+tr
+{
+  border-style: ridge;
+}
+      
+th, td
+{
+  padding: 1% 1%;
+}

@@ -1,0 +1,23 @@
+/* Modified from Fig 19.20 */
+
+p
+{
+  margin: 0px;
+}
+
+.error
+{
+  color: red
+}
+
+p.head
+{
+  font-weight: bold; 
+  margin-top: 10px;
+}
+
+label
+{
+  width: 5em;
+  float: left;
+}

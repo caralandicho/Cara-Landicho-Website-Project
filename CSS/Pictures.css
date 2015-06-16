@@ -1,0 +1,24 @@
+/* Concepts from Deitel's Internet & World Wide Web and http://www.w3schools.com/ unless
+otherwise noted */ 
+/* upcoming modified from http://www.w3schools.com/css/css_image_gallery.asp */
+figure
+{
+  background-color: white;
+  border-style: ridge;
+  float: left;
+  margin: 3%;
+  text-align: center;
+  width: 13em;
+}
+
+/* end */
+/* upcoming modified from http://www.w3schools.com/css/css_image_gallery.asp */
+
+img
+{
+  margin-top: 10%;
+  width: 12em;
+  height: 12em;
+}
+
+/* end */

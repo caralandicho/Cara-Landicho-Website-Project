@@ -1,0 +1,15 @@
+/* Concepts from Deitel's Internet & World Wide Web and http://www.w3schools.com/ unless
+otherwise noted */ 
+
+#album
+{
+  margin-left: 48%;
+  margin-bottom: 10%;
+}
+
+img
+{
+  height: 25em;
+  margin-left: 30%;
+  margin-top: 2%;
+}

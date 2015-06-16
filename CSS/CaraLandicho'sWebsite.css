@@ -1,0 +1,78 @@
+/* Concepts from Deitel's Internet & World Wide Web and http://www.w3schools.com/ unless
+otherwise noted */ 
+a
+{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+aside
+{
+  box-shadow: 5px 5px 5px black;
+  float: right;
+  margin-right: 2%;
+  margin-top: 2%;
+  width: 20%;
+}
+
+aside h3
+{
+  text-align: center;
+}
+
+body
+{
+  background-attachment: fixed;
+  background-image: url( 'Background/colorvintage.jpg' );
+  /* http://www.pptbackground.net/plog-content/images/powerpoint/
+    abstract-backgrounds/vintage-background-texture.jpg */
+  background-repeat: no-repeat;
+  font-family: cursive;
+}
+
+figure
+{
+  top: 30%;
+}
+
+footer
+{ 
+  bottom: 0em;
+  left: 0em;
+  opacity: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+footer:hover
+{
+  opacity: 1;
+}
+
+header
+{
+  text-align: center;
+}
+
+img
+{
+  height: 2em;
+}
+
+#nav
+{
+  border-style: ridge;
+  margin-top: 1%;
+  text-align: center;
+}
+
+#nav a
+{
+  padding: 3%;
+}
